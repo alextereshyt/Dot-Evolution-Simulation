@@ -14,6 +14,7 @@ During positive and negative mutations, a force parameter is added or subtracted
 # Second Mode 
 In the second mode, a wall is built in the middle of the field, which is initially open and then closed after a while. Thus evolution will take place in different halves in different ways.
 This proves the importance of isolation during evolution.
+
 <img src="https://github.com/alextereshyt/DotEvolutionSim/blob/main/cells%20simu%202.gif?raw=true" alt="Second mode sumulation" width="300" height="300">
 
 # Third Mode 

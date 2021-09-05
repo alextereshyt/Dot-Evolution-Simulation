@@ -27,4 +27,6 @@ The program has a section with variable parameters that can be changed and exper
 Because the GUI was written in SFML, you can easily change the image output settings.
 Also, if you want to run the simulation purely in the console, download the appropriate version.
 
+<img src="screen v3.jpg" alt="Screenshot of working program">
+
 

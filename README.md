@@ -26,7 +26,7 @@ The third mode is the most difficult and interesting. Initially, random conditio
 The program has a section with variable parameters that can be changed and experimented with simulation.
 Because the GUI was written in SFML, you can easily change the image output settings.
 Also, if you want to run the simulation purely in the console, download the appropriate version.
-
+https://www.youtube.com/watch?v=p_Ia-PYOtSo&ab_channel=LaLeX
 <img src="screen v3.jpg" alt="Screenshot of working program">
 
 
